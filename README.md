@@ -1,2 +1,2 @@
 # CSE158_A2
-Assignment 2: Rent the Runway Data
+Assignment 2: Movies Data
